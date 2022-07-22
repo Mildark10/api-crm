@@ -1,0 +1,92 @@
+{
+  "clientes": [
+    {
+      "nombre": "Milton",
+      "empresa": "bajeDePepa",
+      "email": "mltap2310@gmail.com",
+      "telefono": "464564564",
+      "notas": "4\n",
+      "id": 1
+    },
+    {
+      "nombre": "Milton",
+      "empresa": "bajeDePepa",
+      "email": "mltap2310@gmail.com",
+      "telefono": "464564564",
+      "notas": "4\n",
+      "id": 2
+    },
+    {
+      "nombre": "lola",
+      "empresa": "LindiDia",
+      "email": "dd@gmail.com",
+      "telefono": "6456456464",
+      "notas": "ooooooooohhhhhh",
+      "id": 3
+    },
+    {
+      "nombre": "Milton",
+      "empresa": "bajeDePepa",
+      "email": "tucherito@gmail.com",
+      "telefono": "5556777",
+      "notas": "d",
+      "id": 4
+    },
+    {
+      "nombre": "Milton",
+      "empresa": "LindiDia",
+      "email": "mltap2310@gmail.com",
+      "telefono": "6456456464",
+      "notas": "lomossss",
+      "id": 5
+    },
+    {
+      "nombre": "Milton",
+      "empresa": "bajeDePepa",
+      "email": "fff@asd.com",
+      "telefono": "565656565656556",
+      "notas": "lind",
+      "id": 6
+    },
+    {
+      "nombre": "Milton",
+      "empresa": "kmkm",
+      "email": "fff@asd.com",
+      "telefono": "6456456464",
+      "notas": "lol",
+      "id": 7
+    },
+    {
+      "nombre": "lola",
+      "empresa": "bajeDePepa",
+      "email": "dd@gmail.com",
+      "telefono": "9998989566",
+      "notas": "po",
+      "id": 8
+    },
+    {
+      "nombre": "Lislo",
+      "empresa": "bajeDePepa",
+      "email": "dd@gmail.com",
+      "telefono": "5656",
+      "notas": "lollll",
+      "id": 9
+    },
+    {
+      "nombre": "Leonarda",
+      "empresa": "kmkm",
+      "email": "dd@gmail.com",
+      "telefono": "9998989566",
+      "notas": "llllasdasd",
+      "id": 10
+    },
+    {
+      "nombre": "Mario Renegon",
+      "empresa": "EMP",
+      "email": "ss@gmail.com",
+      "telefono": "9999999999",
+      "notas": "sasasdad \n",
+      "id": 11
+    }
+  ]
+}
